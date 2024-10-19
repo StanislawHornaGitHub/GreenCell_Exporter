@@ -1,0 +1,15 @@
+{
+  "cSpell.words": [
+    "appmetrics",
+    "dotenv",
+    "fastapi",
+    "healthcheck",
+    "Instrumentator",
+    "Instrumentor",
+    "opentelemetry",
+    "otlp",
+    "pydantic",
+    "semconv",
+    "uvicorn"
+  ]
+}
